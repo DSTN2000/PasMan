@@ -1,9 +1,0 @@
-/home/user/Qt Projects/raw/pasman/build/Desktop_Qt_6_8_2-Profile/CMakeFiles/pasman.dir
-/home/user/Qt Projects/raw/pasman/build/Desktop_Qt_6_8_2-Profile/CMakeFiles/edit_cache.dir
-/home/user/Qt Projects/raw/pasman/build/Desktop_Qt_6_8_2-Profile/CMakeFiles/rebuild_cache.dir
-/home/user/Qt Projects/raw/pasman/build/Desktop_Qt_6_8_2-Profile/CMakeFiles/list_install_components.dir
-/home/user/Qt Projects/raw/pasman/build/Desktop_Qt_6_8_2-Profile/CMakeFiles/install.dir
-/home/user/Qt Projects/raw/pasman/build/Desktop_Qt_6_8_2-Profile/CMakeFiles/install/local.dir
-/home/user/Qt Projects/raw/pasman/build/Desktop_Qt_6_8_2-Profile/CMakeFiles/install/strip.dir
-/home/user/Qt Projects/raw/pasman/build/Desktop_Qt_6_8_2-Profile/CMakeFiles/pasman_autogen_timestamp_deps.dir
-/home/user/Qt Projects/raw/pasman/build/Desktop_Qt_6_8_2-Profile/CMakeFiles/pasman_autogen.dir
