@@ -46,3 +46,7 @@ Here are the core features:
 - Built on the Qt framework and standard C++ libraries for stability.
 - Ensures fast and consistent processing of user requests.
 - Implements validation, duplicate checking, and confirmation dialogs to enhance user confidence.
+
+
+
+Made for the Fundamentals of Algorithmization and Programming coursework by Dan Soltan
