@@ -1,4 +1,4 @@
-PasMan is a lightweight crossplatform password manager which utilizes a locally stored csv file to save and keep your data.
+PasMan is a lightweight crossplatform password manager built with Qt which utilizes a locally stored csv file to save and keep your data.
 Here are the core features:
 
 ### 🔑 Password Generation
