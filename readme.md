@@ -40,10 +40,9 @@ Here are the core features:
 - Alerts users when required fields are left empty.
 - Provides warnings for duplicate entries.
 - Displays informative dialog messages for successful or failed operations.
-- Uses `qDebug()` for real-time debugging and logging.
 
 ### ⚡ Performance & Reliability
-- Built on the Qt framework and standard C++ libraries for stability.
+- Built on the Qt framework and standard C++ libraries.
 - Ensures fast and consistent processing of user requests.
 - Implements validation, duplicate checking, and confirmation dialogs to enhance user confidence.
 
